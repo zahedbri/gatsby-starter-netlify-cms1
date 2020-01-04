@@ -5,7 +5,7 @@ title: About our values
 ![]()
 
 ```
-import CMS from 'netlify-cms-app'
+<script>import CMS from 'netlify-cms-app'
 // import uploadcare from 'netlify-cms-media-library-uploadcare'
 // import cloudinary from 'netlify-cms-media-library-cloudinary'
 
@@ -20,8 +20,10 @@ import IndexPagePreview from './preview-templates/IndexPagePreview'
 CMS.registerPreviewTemplate('index', IndexPagePreview)
 CMS.registerPreviewTemplate('about', AboutPagePreview)
 CMS.registerPreviewTemplate('products', ProductPagePreview)
-CMS.registerPreviewTemplate('blog', BlogPostPreview)
+CMS.registerPreviewTemplate('blog', BlogPostPreview)<script>
 ```
+
+
 
 ### Shade-grown coffee
 
