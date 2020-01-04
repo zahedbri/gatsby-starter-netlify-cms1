@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Your Digital Experience Starts Here
-image: /img/home-jumbotron.jpg
+image: /img/it.png
 heading: 'Design Your Web Applications, Software and Digital Marketing!'
 subheading: Share how do you want to present yourself in virtual universe!
 mainpitch:
