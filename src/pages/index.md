@@ -62,10 +62,10 @@ main:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/digital-marketing-blogs-header.png
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: A set of digital marketing and web app design tools
     image: /img/frontend-javascript-frameworks-angular1551444402455.png
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Web Applications
+    image: /img/header-img.png
 ---
 
