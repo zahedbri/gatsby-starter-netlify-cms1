@@ -2,7 +2,7 @@
 templateKey: product-page
 title: Our Coffee
 image: /img/unnamed.png
-heading: Great coffee with a conscience
+heading: Great digital supports for every business!
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
