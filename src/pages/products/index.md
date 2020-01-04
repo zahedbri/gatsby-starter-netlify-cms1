@@ -55,10 +55,10 @@ main:
     image: /img/846-seo-marketing-digital-tools-blog-header.png
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/hedera-digital-marketing-service-header.png
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/digital-marketing-header-final.png
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
@@ -70,7 +70,7 @@ testimonials:
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Our Price
   description: >-
     We make it easy to make great coffee a part of your life. Choose one of our
     monthly subscription plans to receive great coffee at your doorstep each
