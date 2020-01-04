@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Your Digital Experience Starts Here
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: 'Design Your Web Applications, Software and Digital Marketing!'
+subheading: Share how do you want to present yourself in virtual universe!
 mainpitch:
-  title: Why Kaldi
+  title: Why Digital Universe!
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
