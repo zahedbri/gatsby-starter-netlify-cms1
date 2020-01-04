@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Our Coffee
+title: Our digital products
 image: /img/unnamed.png
 heading: Great digital supports for every business!
 description: >-
